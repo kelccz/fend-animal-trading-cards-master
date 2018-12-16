@@ -1,0 +1,45 @@
+/* add your CSS here */
+
+ul{
+    list-style: none;
+    padding:0;
+}
+
+/*Fonts*/
+h3 {
+    font-weight: bold;
+    font-size: 22px;
+}
+.italic {
+    font-style: italic;
+}
+
+/*Cards*/
+.card {
+    width: 300px;
+    box-shadow: 5px 5px 2px 1px #eaeaea;
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+    .card img {
+        max-width: 300px;
+        margin-bottom: 10px;
+        border: solid 0.6px #CECECE;
+    }
+
+.placeholder li {
+    margin: 0;
+}
+.placeholder li span {
+    font-weight: bold;
+}
+
+/*Frames*/
+.frame1 {
+    border: solid 0.9px #CECECE;
+    padding: 10px;
+}
+
+
+
+
